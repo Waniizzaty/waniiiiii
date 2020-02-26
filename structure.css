@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bekasbesar
+{
+	width:80%;
+	margin:auto;
+}
+
+#kotak1
+{
+	width:100%;
+	float:left;
+}
+
+#kotak2
+{
+	width:100%;
+	float:left;
+}
+
+#kotak3_product
+{
+	width:100%;
+	float:left;
+}
+
+#kotak4_product
+{
+	width:100%;
+	float:left;
+}
+
+
+
+#kotak3
+{
+	width:50%;
+	float:left;
+}
+
+#kotak4
+{
+	width:48%;
+	float:right;
+}
+
+ 
